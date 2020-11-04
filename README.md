@@ -4,23 +4,22 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Thiago Nogueira
+<sub>*Cyber Defense & Security* </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+ICT Infrastructure Analyst, Manager and Cybersecurity Analyst, Project Manager in several IT areas. I am a professional in the area of IT management and information security, with great experience in Linux / Unix environments. I have worked with Information Technology since 2001.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Master's student in Computer Science - UFBA.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Firewalls, Fortinet, Cisco, Pentester, Cyber Defense, Computer forensic expertise, Cybercrime and Operational Systems (Linux and Microsoft).
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Blog](http://ticopan.blogspot.com/)
+* [LinkedIn](https://www.linkedin.com/in/thiago-nogueira-a5bb0120/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Exemplo de apresentação de projetos (não modificado ainda):
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
