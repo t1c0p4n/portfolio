@@ -11,7 +11,7 @@ ICT Infrastructure Analyst, Manager and Cybersecurity Analyst, Project Manager i
 
 Master's student in Computer Science - UFBA.
 
-**Background in:** Firewalls, Fortinet, Cisco, Pentester, Cyber Defense, Computer forensic expertise, Cybercrime and Operational Systems (Linux and Microsoft).
+**Background in:** Firewalls, Fortinet, Cisco, Pentester, Ethical Hacker, Cyber Defense, Computer forensic expertise, Cybercrime and Operational Systems (Linux and Microsoft).
 
 **Links:**
 * [Blog](http://ticopan.blogspot.com/)
