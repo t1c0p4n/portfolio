@@ -19,15 +19,9 @@ Master's student in Computer Science - UFBA.
 
 
 ## Projetos:
-Exemplo de apresentação de projetos (não modificado ainda):
 
 * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
 
 ---
 
