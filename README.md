@@ -21,9 +21,11 @@ Master's student in Computer Science - UFBA.
 ## Projetos:
 
 * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
-* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
-* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
-* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
+* * **Transformando arquivos PDF em TXT (python):** https://github.com/t1c0p4n/pdftotxt
+* * **Exemplos de códigos utilizados para administração de redes (python):** https://github.com/t1c0p4n/python-for-networks
+* * **Forked Data extraction tool for Docker Registry API (python):** https://github.com/t1c0p4n/docker_fetch
+* * **Enviando mensagens para seu grupo de trabalho no Microsoft Teams (python):** https://github.com/t1c0p4n/TeamsMessage
+* * **Serviço de geolocalização de endereços IP (Shell Script):** https://github.com/t1c0p4n/geoip
 
 
 ---
