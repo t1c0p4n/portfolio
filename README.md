@@ -14,13 +14,16 @@ Master's student in Computer Science - UFBA.
 **Background in:** Firewalls, Fortinet, Cisco, Pentester, Ethical Hacker, Cyber Defense, Computer forensic expertise, Cybercrime and Operational Systems (Linux and Microsoft).
 
 **Links:**
-* [Blog](http://ticopan.blogspot.com/)
+* [Serviços](https://t1c0p4n.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/thiago-nogueira-a5bb0120/)
 
 
 ## Projetos:
 
 * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
+* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
+* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
+* * **Criando arquivos de configuração Fortigate baseado blacklist (python):** https://github.com/t1c0p4n/automation-blocklist
 
 
 ---
